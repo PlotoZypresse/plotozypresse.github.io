@@ -48,29 +48,27 @@ linkedin_username: janthuemmel
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Hi, my name is Jan, I am a Computer Science student with a passion for technology and eager to apply theoretical knowledge and personal skills in a practical setting. I am fluent in Danish, German, and English, enabling effective communication across diverse groups. Furthermore my interests lie in exploring opportunities within computer science and related fields to contribute positively to projects and teams. In my spare time I like to run, cycle or go to the gym. I also like to relax with a good movie or TV-Series or spending time with friends and family. Right now, I am interested in C programming as it is challenging but rewarding. This interest was sparked through courses of my bachelor's degree.
+# I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Bank System
+        link: https://github.com/PlotoZypresse/BankingSystem
         # link_text: Project Website
         additional_links:
-          - title: sproogen/modern-resume-theme
+          - title: Bank System
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/PlotoZypresse/BankingSystem
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project after taking a course on system architecture at university, where C programming was included. I was fascinated by C and decided to start my own project after the course concluded.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,7 +105,6 @@ content:
       - Running
       - Gaming
       - Cycling
-      -
 
 # Footer
 footer_show_references: true
