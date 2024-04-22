@@ -42,7 +42,7 @@ linkedin_username: janthuemmel
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 gtag: "G-M29H8DVFE2"
-google_analytics: "G-M29H8DVFE2"
+# google_analytics: "G-M29H8DVFE2"
 
 # About Section
 # about_title: About Me
