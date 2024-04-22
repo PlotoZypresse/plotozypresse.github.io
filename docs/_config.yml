@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   My name is Jan, I am 23 years old, and I am currently studying Computer Science at the University of Southern Denmark.
   I will finish my 4th semester this June.
   After completing my Bachelor's degree, I plan to continue with my Master's degree in Computer Science.
-  Besides studying I love to run, spend time with friends and if the weather is great during the summer months I love to cycle.
+  Besides studying I love to run, spend time with friends and if the weather is great during the summer months I like to ride my bike.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
