@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   My name is Jan, I am 23 years old, and I am currently studying Computer Science at the University of Southern Denmark.
   I will finish my 4th semester this June.
   After completing my Bachelor's degree, I plan to continue with my Master's degree in Computer Science.
-  Besides studying i love to run, spend time with friends and if the weather is great during the summer months i love to cycle
+  Besides studying I love to run, spend time with friends and if the weather is great during the summer months I love to cycle.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -85,6 +85,13 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           I worked in retail during my gap year to save money for traveling. Sadly, I did not travel because of COVID.
+
+      - layout: left
+        title: Förde-Show Concept Flensburg
+        caption: May 2019 - April 2020
+
+        description: | # this will include new lines to allow paragraphs
+          During my time in high school, I worked at Förde Show Concept, a company founded in 1992 and operating as a full-service agency in the field of events, catering, and concerts.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
