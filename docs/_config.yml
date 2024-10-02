@@ -54,16 +54,16 @@ about_content: | # this will include new lines to allow paragraphs
   Outside of academics I love to run, spend time with friends and if the weather is great during the summer months I like to ride my bike.
 content:
   - title: Projects # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: top-middle
-          title: Clash Royale Discord Bot
-          link: https://github.com/PlotoZypresse/cr_discord_bot
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Clash Royale Discord Bot
+        link: https://github.com/PlotoZypresse/cr_discord_bot
           # link_text: Project Website
-          additional_links:
-            - title: Clash Royale Discord Bot
-              icon: fab fa-github
-              url: https://github.com/PlotoZypresse/cr_discord_bot
+        additional_links:
+          - title: Clash Royale Discord Bot
+            icon: fab fa-github
+            url: https://github.com/PlotoZypresse/cr_discord_bot
             # - title:  Github page for project (eg. sproogen/modern-resume-theme)
             #   icon: fab fa-github
             #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
