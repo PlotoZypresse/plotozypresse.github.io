@@ -59,54 +59,30 @@ content:
       - layout: top-middle
         title: Clash Royale Discord Bot
         link: https://github.com/PlotoZypresse/cr_discord_bot
-          # link_text: Project Website
         additional_links:
           - title: Clash Royale Discord Bot
             icon: fab fa-github
             url: https://github.com/PlotoZypresse/cr_discord_bot
-            # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            #   icon: fab fa-github
-            #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-          # quote: >
-          #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-          description: | # this will include new lines to allow paragraphs
-            I’ve developed a Discord bot using Python, designed to fetch and display player statistics for Clash Royale based on user input. The bot allows users to enter a player tag and receive real-time data such as experience level, trophies, wins, and losses.
+        description: | # this will include new lines to allow paragraphs
+          I’ve developed a Discord bot using Python, designed to fetch and display player statistics for Clash Royale based on user input. The bot allows users to enter a player tag and receive real-time data such as experience level, trophies, wins, and losses.
 
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-    # content:
       - layout: top-middle
-        title: One Billion Row Challange
+        title: One Billion Row Challenge
         link: https://github.com/PlotoZypresse/oneBillionRowChallange
-        # link_text: Project Website
         additional_links:
-          - title: One Billion Row Challange
+          - title: One Billion Row Challenge
             icon: fab fa-github
             url: https://github.com/PlotoZypresse/oneBillionRowChallange
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I participated in the One Billion Row Challenge, where I implemented a solution in C to process and analyze large datasets. I came about the challange on YouTube.
+          I participated in the One Billion Row Challenge, where I implemented a solution in C to process and analyze large datasets. I came across the challenge on YouTube.
 
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-    # content:
       - layout: top-middle
         title: Bank System
         link: https://github.com/PlotoZypresse/BankingSystem
-        # link_text: Project Website
         additional_links:
           - title: Bank System
             icon: fab fa-github
             url: https://github.com/PlotoZypresse/BankingSystem
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project after taking a course on system architecture at university, where C programming was included. I was fascinated by C and decided to start my own project after the course concluded.
 
@@ -115,19 +91,13 @@ content:
     content:
       - layout: left
         title: Citti-Markt Flensburg
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        # sub_title: Senior Network System Administrator
         caption: July 2020 - August 2021
-        # quote: >
-
         description: | # this will include new lines to allow paragraphs
           I worked in retail during my gap year to save money for traveling. Sadly, I did not travel because of COVID.
 
       - layout: left
         title: Förde-Show Concept Flensburg
         caption: September 2019 - April 2020
-
         description: | # this will include new lines to allow paragraphs
           During my time in high school, I worked at Förde Show Concept, a company founded in 1992 and operating as a full-service agency in the field of events, catering, and concerts.
 
@@ -138,15 +108,13 @@ content:
         title: University of Southern Denmark
         caption: 2022 - 2025
         sub_title: BSc Computer Science
-        # quote: >
-
         description: | # this will include new lines to allow paragraphs
-          I am currently pursueing a Bachelor of Science degree in Computer Science. The program provided me with a solid foundation in various aspects of computer science, including algorithms, programming languages, data structures, and software engineering principles.
+          I am currently pursuing a Bachelor of Science degree in Computer Science. The program provided me with a solid foundation in various aspects of computer science, including algorithms, programming languages, data structures, and software engineering principles.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in computers and software some of my other interests and hobbies are:
+      Alongside my interests in computers and software, some of my other interests and hobbies are:
       - Running
       - Gaming
       - Cycling
