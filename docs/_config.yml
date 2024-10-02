@@ -53,7 +53,7 @@ about_content: | # this will include new lines to allow paragraphs
   After completing my Bachelor's degree, I plan to continue with my Master's degree in Computer Science.
   Outside of academics I love to run, spend time with friends and if the weather is great during the summer months I like to ride my bike.
 content:
-  - title: Projects # Title for the section
+    - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
