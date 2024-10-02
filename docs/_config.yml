@@ -86,10 +86,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project after taking a course on system architecture at university, where C programming was included. I was fascinated by C and decided to start my own project after the course concluded.
 
-  - title: Experience # Title for the section
+    - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-       - layout: left
+      - layout: left
         title: SDU Vikings
         caption: October 2024 - Now
         description: | # this will include new lines to allow paragraphs
