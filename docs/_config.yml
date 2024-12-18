@@ -89,6 +89,12 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+       - layout: left
+        title: Student Worker at SDU eScience 
+        caption: November 2024 - Now
+        description: | # this will include new lines to allow paragraphs
+          I support researchers on the UCloud platform by providing technical assistance, troubleshooting issues, and optimizing workflows. Additionally, I contribute to developing and improving tools to enhance platform usability and efficiency.
+
       - layout: left
         title: SDU Vikings
         caption: October 2024 - Now
